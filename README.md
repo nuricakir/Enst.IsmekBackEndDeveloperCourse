@@ -11,7 +11,7 @@
 - Elseif (Eğer Değilse)
 - Else (Hiçbiri Değilse)
 
-<b><i> Proje:</i></b> Değer tanımlaması yapılan 3 farklı sayı değişkeni arasında en büyük olanın ekrana yansıtılması.
+<b><i> Proje:</i></b> Değer tanımlaması yapılan 3 farklı sayı değişkeni arasından en büyük olanın ekrana yansıtılması.
 
 <b><i> Proje Çalışma Videosu:<b><i> 
 
