@@ -2,11 +2,11 @@
 
 ## 1. Hafta: If (Eğer) Kontrol Deyimi ile İşlemler
 
-<b><i> Kullanılan Programlama Dili:</i></b>
+<b><i> Kullanılan Programlama Dilleri:</i></b>
 
 - PHP
 
-<b><i>If (Eğer) Kontrol Deyimi ile İşlemler:</i></b>
+<b><i>1. Hafta: If (Eğer) Kontrol Deyimi ile İşlemler:</i></b>
 - If (Eğer)
 - Elseif (Eğer Değilse)
 - Else (Hiçbiri Değilse) 
