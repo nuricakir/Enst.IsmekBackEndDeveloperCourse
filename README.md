@@ -13,7 +13,7 @@
 
 <b><i> Proje:</i></b> Değer tanımlaması yapılan 3 farklı sayı değişkeni arasından en büyük olanın ekrana yansıtılması.
 
-<b><i> Proje Çalışma Videosu:<b><i> 
+<b><i> Proje Video:<b><i> 
 
 https://user-images.githubusercontent.com/112883476/235503063-b5ef0589-b754-43f9-9e14-dcf0aa1a35db.mp4
 
