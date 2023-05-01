@@ -9,7 +9,7 @@
 <b><i>1. Hafta: If (Eğer) Kontrol Deyimi ile İşlemler:</i></b>
 - If (Eğer)
 - Elseif (Eğer Değilse)
-- Else (Hiçbiri Değilse) 
+- Else (Hiçbiri Değilse)
 
 <b><i> Proje:</i></b> Değer tanımlaması yapılan 3 farklı sayı değişkeni arasında en büyük olanın ekrana yansıtılması.
 
